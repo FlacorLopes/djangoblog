@@ -25,7 +25,7 @@ SECRET_KEY = 'fhqe2k!lk2x7wa29vz2q&d8sn#hv7n7*=#8s**$=-$x1y$!2^#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1:8000', 'flacorlopes.pythonanywhere.com']
 
 
 # Application definition
